@@ -1,2 +1,3 @@
 # hello-world
-Usando github
+Usando github 
+estudiante de ingenieria entrando en el mundo github
